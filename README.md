@@ -1,8 +1,8 @@
-# Charting_Crowfunding_Excel
+# Charting Crowfunding_Excel
 ## Motivation
 In the first week of the Data Science Bootcamp, we learned the basics of Excel. Excel is one of the most frequently used data analysis tools and it is considered as an easy start for beginners. 
 
-## Projcet description
+## Projcet Description
 Crowdfunding platforms like Kickstarter and Indiegogo have been growing in success and popularity since they began in the late aughts. Everyone from indie creators to famous celebrities have utilized crowdfunding to launch new products and generate buzz, but not every project has found success.
 Getting funded on a crowdfunding website requires meeting or exceeding the project's initial goal, so many organizations spend months looking through past projects in an attempt to discover some trick for finding success. This practice aims to organize and analyze a database of 1,000 generated sample projects in order to uncover any hidden trends. Dataset created by Trilogy Education Services, LLC. 
 
@@ -81,7 +81,7 @@ For those of you looking for an additional challenge, evaluate the number of bac
 
 * Use your data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
 
-## Techniques used in this application
+## Techniques Used
 1. Conditional formatting
 2. Pivot table
 3. COUNTIFS()
